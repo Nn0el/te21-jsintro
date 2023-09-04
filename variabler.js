@@ -29,3 +29,6 @@ let f = 16.8
 let g = true
 let h = false
 console.log(e, f)
+
+let y = 12 + "test"
+console.log(y)
